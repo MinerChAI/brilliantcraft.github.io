@@ -12,6 +12,7 @@ body
 #PageHeader1
 {
    background-color: #00FEFE;
+   color: #FFFFFF;
    background-image: none;
    box-sizing: border-box;
 }
@@ -36,7 +37,7 @@ body
 #PageFooter1
 {
    background-color: #303030;
-   text-decoration-color: #FFFFFF;
+   color: #FFFFFF;
    background-image: none;
    box-sizing: border-box;
 }
