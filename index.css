@@ -24,33 +24,12 @@ body
    width: 100px;
    height: 100px;
 }
-#wb_Heading1
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   margin: 0;
-   padding: 0;
-   text-align: left;
-}
 #Description
 {
    color: #FFFFFF;
    font-family: Verdana;
    font-weight: bold;
-   font-size: 32px;
-   margin: 0;
-   text-align: left;
    text-shadow: 2px 2px 3px rgba(0,0,0,0.50);
-}
-#wb_Heading2
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   margin: 0;
-   padding: 0;
-   text-align: center;
 }
 #PageFooter1
 {
