@@ -23,7 +23,7 @@ body
    top: 0;
    width: 100px;
    height: 100px;
-   align: center;
+   text-align: center;
 }
 #Description
 {
@@ -31,7 +31,7 @@ body
    font-family: Verdana;
    font-weight: bold;
    text-shadow: 2px 2px 3px rgba(0,0,0,0.50);
-   align: center;
+   text-align: center;
 }
 #PageFooter1
 {
