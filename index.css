@@ -30,7 +30,7 @@ body
    text-decoration-color: #FFFFFF;
    font-family: Verdana;
    font-weight: bold;
-   text-shadow: 2px 2px 3px rgba(0,0,0,0.50);
+   text-shadow: 2px 2px 3px rgba(255,255,255,0.25);
    align: center;
 }
 #PageFooter1
