@@ -38,6 +38,26 @@ body {
   text-align: center;
 }
 
+#Main:link {
+  text-decoration: none;
+  color: white;
+}
+
+#Main:visited {
+  text-decoration: none;
+  color: white;
+}
+
+#Main:active {
+  text-decoration: none;
+  color: white;
+}
+
+#Main:hover {
+  text-decoration: none;
+  color: white;
+}
+
 #PageFooter1 {
   background-color: #303030;
   color: #FFFFFF;
